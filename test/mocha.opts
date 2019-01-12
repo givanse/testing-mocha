@@ -1,0 +1,7 @@
+--check-leaks
+--timeout 100
+--colors
+--globals jQuery,FOOBAR
+--forbid-only
+--recursive
+--allow-uncaught
